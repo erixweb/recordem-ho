@@ -50,6 +50,8 @@ Pau Claris, el que va ser **el polític català més influent** durant l'època,
 
 Per si això no fos prou, també va morir el rei de França Lluis XIII.
 
-Durant el govern del successor de Lluis XIII (13), Lluis XIV (14), va començar una **guerra civil en França** (1650), això va fer que una gran part de les tropes franceses es retirssin de Catalunya.
+Durant el govern del successor de Lluis XIII (13), Lluis XIV (14), va començar una **guerra civil en França** (1650), això va fer que una gran part de les tropes franceses es retirssin del Catalunya.
 
+Mentrestant, l'exèrcit castellà assetjant ciutats importants catalanes.
 
+Finalment, amb el tractat dels Pirineus, França retira les seves tropes i renuncia al Principat de Catalunya, a canvi de anexionar el Rosselló, Conflent i part de Cerdanya.
