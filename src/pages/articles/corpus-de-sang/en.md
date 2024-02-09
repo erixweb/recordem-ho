@@ -7,55 +7,55 @@ thumbnail: "https://media.discordapp.net/attachments/1152239048220475516/1205195
 
 ## Per què va començar?
 
-During the **War of 30 Years**, the king 
-Mentre transcurria la *Guerra dels 30 Anys*⚔️, el rei Felip IV de Castella👑 volia cobrar tributs als catalans i reclutar-los per anar a la guerra. El problema, està en que les consitucions catalanes no permetien l'ús dels recursos i de la població per part del rei.
+During the **War of 30 Years**⚔️, the king Philip IV of Castile👑 wanted to collect taxes to catalans and recruit them for the war. The problem is that the Catalan Constituion doesn't allow the king to use the resources and population.
 
-En aquesta guerra, les tropes castellanes del comte-duc d'Olivares van establir-se a la frontera entre França i Catalunya per defensar la frontera.
+In this war, the Castilian troops from the count-duke Olivares were established in the border between France and Catalonia to defend the border.
 
-Les tropes castellanes, amb la manca de recursos per continuar endavant amb la guerra, van decidir cometre saquejos a la població catalana local.
+The Castilian troops, due to the lack of resources to continue on with the war, decided to commit lootings to the local catalan population.
 
-## Com va continuar?
+## How did it continue?
 
-Els pagesos, molt emprenyats per aquesta situació, van revoltar-se grupalment per reivindicar.
+The farmers, angried by the situation, revolted as a group.
 
-Una dada a afegir, és que les constitucions catalanes deien que la població catalana **tenia el dret de posseir armes i defensar-se**.
+A thing to be said is that, the Catalan Consitution says that **the Catalan population is allowed to own weapons and defend themselves**
 
-Un dels llocs on més es va fer escoltar la veu dels pagesos, _Santa Coloma de Farners_. Els habitants d'aquesta, no van permetre que les tropes castellanes s'allotgessin.
+One of the places were the farmers were mostly heard was _Santa Coloma de Farners_. The population didn't allow the Castilian troops to stay.
 
-Això acabava de començar. Santa Coloma va fer sonar les campanes🔔 per reunir als pagesos armats i expulsar a les tropes del castellanes.
+This had just started. Santa Coloma rang the bells🔔 to gather the farmers armed and kick the Castilian troops.
 
 ## Començ de _La Guerra dels Segadors_
 
-El virrei castellà, enviat a Catalunya per rei Felip IV de Castella, **va donar un càstig als pagesos arrasant tota la ciutat de Santa Coloma de Farners** juntament amb el seu exèrcit.
+The Castilian viceroy, sent to Catalonia by the king Philip IV of Castile, **punished the farmers destroying all the city of Santa Coloma de Farners** together with his army.
 
-**Això no va ser més que un error**. El virrei, no va ser capaç de veure les conseqüencies que tindria arrasar la ciutat de Santa Coloma.
+**This was just an error**. The voiceroy, wasn't able to see the consequences of destroying the city of Santa Coloma.
 
-Els pagesos encara més emprenyats, sense cap bandera, escut o himne, van aixecar un Sant Crist, el 7 de juny de 1640, **2.000 pagesos van posar romb cap a Barcelona** amb la fi de venjar-se de l'exèrcit castellà.
+The farmers, even more angried, without any flag, shield or anthem, raised a Saint Christ, the 7 of July of 1640, **2.000 farmers proceeded to go to Barcelona** with the goal of taking revenge on the Castilian army.
 
-Sense cap resistència i l'ajuda dels Barcelonins, van aconseguir alliberar als presos catalans que van ser empresonats pels castellans. I a més, **van acabar amb la vida del virrei de Catalunya** (Dalmau III de Queralt) al considerar-ho un traïdor.
+Without any resistence and with the aid of Barcelonians, they managed to release catalan prisioners jailed by the Castilians. They also **enteded with the life of the voiceroy of Catalonia** (Dalmau III de Queralt) when they considered him a traitor.
 
-Els castellans, al veure això, van preparar un exèrcit amb l'objectiu de sufocar la revolta. Pau Claris, president de la Generalitat escollit l'any 1638, alarmat per la penetració de l'exèrcit castellà, **proclama la Republica Catalana** sota protecció del rei de França, Lluis XII.
+The Castilians, when they saw this, they preparated an army with the goal of suffocating the rebellion. Pau Claris, the president of the Generalitat, who chosen as president the year 1638, alarmed by the conquest of the Castilian army, he **proclamated the Catalan Republic** under the protection of the king of France, Lluis XIII.
 
 <img data-src="https://media.discordapp.net/attachments/1152239048220475516/1205449102897324122/republica_catalana.webp" alt="Mapa de la Republica Catalana" class="h-[300px]" style="aspect-ratio: 199/100" />
 
-## República Catalana i batalla de Montjuïc
+## Republic of Catalonia and battle of Montjuïc
 
-Després de que Pau Claris proclamés la Republica Catalana sota protecció del rei Lluis XII, l'exèrcit castellà, finalment recupat, va posar rumb cap a Barcelona
+After Pau Clari proclamated the Republic of Catalonia under the protection of the king Lluis XIII, the Castilian army, finally recovered, headed to Barcelona.
 
-Van aconseguir perdre Tarragona, tot i això, quan van arribar a Montjuïc, es van veure enfrentats els pagesos (**segadors**) i l'exèrcit francés contra el castellà.
+They managed to conquer Tarragona. However, when they arrived to Montjuïc, the farmers (**segadors**) and the French army, were face to face against the Castilian army.
 
-L'exèrcit francés, juntament amb els segadors, **van guanyar la decisiva batalla**.
+The French army, together with the reapers/farmers, **won the decisive battle**
 
 <img data-src="https://cdn.discordapp.com/attachments/1152239048220475516/1205451200846372896/pau_claris.webp" alt="Imatge de Pau Claris" class="h-[200px]" style="aspect-ratio: 77/100">
 
-## Mort de Pau Claris i fi de la República Catalana
+## Death of Pau Claris and the end of the Republic of Catalonia
 
-Pau Claris, el que va ser **el polític català més influent** durant l'època, va morir el 27 de febrer després de ser possiblement enverinat pels castellans.
+Pau Claris, who was the **most influential catalan politician**, died the 27 of February after being poisoned by the Castilians.
 
-Per si això no fos prou, també va morir el rei de França Lluis XIII.
+If that wasn't enough, the king of France, Lluis XIII also died.
 
-Durant el govern del successor de Lluis XIII (13), Lluis XIV (14), va començar una **guerra civil en França** (1650), això va fer que una gran part de les tropes franceses es retirssin del Catalunya.
+During the government of the sucessor of Lluis XIII, Lluix XIV, the **French civil war** had started in 1650, this made a big part of the French troops leave Catalonia.
 
-Mentrestant, l'exèrcit castellà assetjant ciutats importants catalanes.
+In the meantime, the Castilian army was lurking important catalan cities.
 
-Finalment, amb el tractat dels Pirineus, França retira les seves tropes i renuncia al Principat de Catalunya, a canvi de anexionar el Rosselló, Conflent i part de Cerdanya.
+Finally, with the Treaty of the Pyrenees, French retired their troops from Catalonia in exchange of annexing the Rosellon, Conflent and a part of Cerdanya.
+
