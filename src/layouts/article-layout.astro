@@ -17,16 +17,6 @@ const { thumbnail, title, introduction } = Astro.props.frontmatter
 		<link rel="preload" href="/fonts/Onest-Bold.woff2" crossorigin="" as="font" />
 		<script is:inline>
 			const Lazy = (target) => {
-				const altHover = document.querySelector("#alt-hover")
-				target.addEventListener("mousemove", (e) => {
-					altHover.style.display = "block"
-					altHover.style.left = e.clientX + "px"
-					altHover.style.top = e.clientY + "px"
-					altHover.innerHTML = target.getAttribute("alt")
-				})
-				target.addEventListener("mouseleave", (e) => {
-					altHover.style.display = "none"
-				})
 				const io = new IntersectionObserver((entries, observer) => {
 					entries.forEach((entry) => {
 						let elementName = entry.target.nodeName.toLocaleLowerCase()

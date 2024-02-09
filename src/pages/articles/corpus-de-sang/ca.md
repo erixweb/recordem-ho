@@ -33,9 +33,14 @@ Els pagesos encara més emprenyats, sense cap bandera, escut o himne, van aixeca
 
 Sense cap resistència i l'ajuda dels Barcelonins, van aconseguir alliberar als presos catalans que van ser empresonats pels castellans. I a més, **van acabar amb la vida del virrei de Catalunya** (Dalmau III de Queralt) al considerar-ho un traïdor.
 
-Els castellans, al veure això, van preparar un exèrcit amb l'objectiu de sufocar la revolta. Pau Claris, president de la Generalitat escollit l'any 1638, alarmat per la penetració de l'exèrcit castellà, **proclama la Republica Catalana** sota protecció del rei de França, Lluis XII.
+Els castellans, al veure això, van preparar un exèrcit amb l'objectiu de sufocar la revolta. Pau Claris, president de la Generalitat escollit l'any 1638, alarmat per la penetració de l'exèrcit castellà, **proclama la Republica Catalana** l'any 1641, sota protecció del rei de França, Lluis XII.
 
-<img data-src="https://media.discordapp.net/attachments/1152239048220475516/1205449102897324122/republica_catalana.webp" alt="Mapa de la Republica Catalana" class="h-[300px]" style="aspect-ratio: 199/100" />
+<div class="w-fit">
+    <img data-src="https://media.discordapp.net/attachments/1152239048220475516/1205449102897324122/republica_catalana.webp" alt="Mapa de la Republica Catalana" class="h-[300px]" style="aspect-ratio: 199/100" />
+    <p class="text-gray-500">
+        Mapa de la Republica Catalana de 1641
+    </p>
+</div>
 
 ## República Catalana i batalla de Montjuïc
 
@@ -45,7 +50,12 @@ Van aconseguir perdre Tarragona, tot i això, quan van arribar a Montjuïc, es v
 
 L'exèrcit francés, juntament amb els segadors, **van guanyar la decisiva batalla**.
 
-<img data-src="https://cdn.discordapp.com/attachments/1152239048220475516/1205451200846372896/pau_claris.webp" alt="Imatge de Pau Claris" class="h-[200px]" style="aspect-ratio: 77/100">
+<div class="w-fit">
+    <img data-src="https://cdn.discordapp.com/attachments/1152239048220475516/1205451200846372896/pau_claris.webp" class="h-[200px]" style="aspect-ratio: 77/100" />
+    <p class="text-gray-500">
+        Foto de Pau Claris
+    </p>
+</div>
 
 ## Mort de Pau Claris i fi de la República Catalana
 

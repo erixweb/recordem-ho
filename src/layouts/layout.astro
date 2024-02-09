@@ -19,6 +19,26 @@ const { title } = Astro.props
 		<link rel="preload" href="/fonts/Onest-Medium.woff2" crossorigin="" as="font" />
 		<link rel="preload" href="/fonts/Onest-Bold.woff2" crossorigin="" as="font" />
 		<ViewTransitions />
+		<script>
+			const Lazy = (target) => {
+				const io = new IntersectionObserver((entries, observer) => {
+					entries.forEach((entry) => {
+						let elementName = entry.target.nodeName.toLocaleLowerCase()
+						if (entry.isIntersecting && elementName === "img") {
+							const img = entry.target
+							img.setAttribute("src", img.getAttribute("data-src"))
+							img.classList.add("fade")
+							observer.disconnect()
+						}
+					})
+				})
+				io.observe(target)
+			}
+			document.addEventListener("astro:page-load", () => {
+				const images = document.querySelectorAll("img")
+				images.forEach(Lazy)
+			})
+		</script>
 	</head>
 	<body class="m-auto min-h-[100vh] w-full font-[Onest]">
 		<slot />
