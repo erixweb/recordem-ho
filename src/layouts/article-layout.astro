@@ -2,10 +2,7 @@
 import { ViewTransitions } from "astro:transitions"
 import "../styles/index.css"
 
-interface Props {
-	title: string
-}
-const { title } = Astro.props
+const { thumbnail, title, introduction } = Astro.props.frontmatter
 ---
 
 <!doctype html>
@@ -18,15 +15,71 @@ const { title } = Astro.props
 		<title>{title}</title>
 		<link rel="preload" href="/fonts/Onest-Medium.woff2" crossorigin="" as="font" />
 		<link rel="preload" href="/fonts/Onest-Bold.woff2" crossorigin="" as="font" />
+		<script is:inline>
+			const Lazy = (target) => {
+				const altHover = document.querySelector("#alt-hover")
+				target.addEventListener("mousemove", (e) => {
+					altHover.style.display = "block"
+					altHover.style.left = e.clientX + "px"
+					altHover.style.top = e.clientY + "px"
+					altHover.innerHTML = target.getAttribute("alt")
+				})
+				target.addEventListener("mouseleave", (e) => {
+					altHover.style.display = "none"
+				})
+				const io = new IntersectionObserver((entries, observer) => {
+					entries.forEach((entry) => {
+						let elementName = entry.target.nodeName.toLocaleLowerCase()
+						if (entry.isIntersecting && elementName === "img") {
+							const img = entry.target
+							img.setAttribute("src", img.getAttribute("data-src"))
+							img.classList.add("fade")
+							observer.disconnect()
+						}
+					})
+				})
+				io.observe(target)
+			}
+			document.addEventListener("astro:page-load", () => {
+				const images = document.querySelectorAll("img")
+				images.forEach(Lazy)
+			})
+		</script>
 		<ViewTransitions />
 	</head>
-	<body class="m-auto min-h-[100vh] w-full font-[Onest]">
+	<body class="m-auto min-h-[100vh] w-full font-[Onest] px-[15px]">
+		<div
+			id="alt-hover"
+			style="position: fixed; z-index: 20px;"
+			class="bg-slate-200 px-[15px] py-[5px] rounded-full"
+		>
+		</div>
+		<nav class="py-[20px]">
+			<div class="max-w-[750px]">
+				<a href="/">Inici</a>
+			</div>
+		</nav>
+		<header class="max-w-[750px]">
+			<h1>
+				{title}
+			</h1>
+			<p>
+				{introduction}
+			</p>
+			<img
+				data-src={thumbnail}
+				alt={title}
+				class="rounded-[5px] shadow-xl"
+				style="aspect-ratio: 150/97;"
+			/>
+		</header>
 		<main class="p-[20px] max-w-[750px]">
 			<slot />
 		</main>
 		<style is:global>
 			h1 {
-				font-size: 28px;
+				margin-top: 20px;
+				font-size: 35px;
 				font-weight: bold;
 				text-align: center;
 			}
@@ -38,6 +91,17 @@ const { title } = Astro.props
 			p {
 				margin-top: 20px;
 				margin-bottom: 20px;
+			}
+			main img {
+				cursor: crosshair;
+				margin-top: 20px;
+				margin-bottom: 20px;
+				border-radius: 5px;
+				--tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+				--tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color),
+					0 8px 10px -6px var(--tw-shadow-color);
+				box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+					var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 			}
 		</style>
 	</body>

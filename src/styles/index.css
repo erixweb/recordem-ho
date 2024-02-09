@@ -17,8 +17,13 @@
     font-display: swap;
     src: url(/fonts/Onest-Bold.woff2) format("woff2");
 }
+
 * {
     box-sizing: border-box;
     margin: auto;
     padding: auto;
+}
+
+html {
+    scroll-behavior: smooth;
 }
