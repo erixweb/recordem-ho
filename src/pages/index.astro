@@ -3,6 +3,16 @@ import Layout from "../layouts/layout.astro"
 ---
 
 <Layout title="Recordem-ho | Història">
+	<nav class="bg-black w-full fixed top-0 left-0 z-[100] py-[20px]">
+		<div class="w-full max-w-[1000px] text-white flex items-center px-[15px]">
+			<div class="text-start w-full max-w-[200px]">
+				<h2 class="w-fit text-[25px] font-bold">recordem-ho</h2>
+			</div>
+			<div class="w-full inline-block">
+				<a href="#articles">Llegeix</a>
+			</div>
+		</div>
+	</nav>
 	<header class="min-h-[100vh] w-full relative bg-black">
 		<img
 			data-src="https://media.discordapp.net/attachments/1152239048220475516/1205195679497060393/els-segadors-catalunya.webp"
@@ -12,13 +22,22 @@ import Layout from "../layouts/layout.astro"
 		<div
 			class="flex flex-col justify-center items-center text-white z-20 min-h-[100vh] w-full absolute top-0 left-0"
 		>
-			<h1 class="font-bold text-[50px]">Recordem-ho</h1>
-			<p class="text-[20px] text-gray-300">Història de Catalunya sense filtres.</p>
+			<div class="px-[15px] max-w-[1050px] text-start">
+				<span class="py-[8px] px-[15px] bg-zinc-900 rounded-full">Història</span>
+				<h1 class="font-bold text-[50px] max-w-[700px]">
+					Corpus de Sang i Guerra del Segadors
+				</h1>
+				<p class="text-[20px] text-gray-300 w-full">
+					Descobreix la història de Catalunya sense filtres.
+				</p>
+			</div>
 		</div>
 	</header>
 	<main class="p-[20px] max-w-[1050px]">
-		<article>
-			<a href="/articles/corpus-de-sang/ca">Corpus de Sang 1640</a>
-		</article>
+		<section id="llegeix">
+			<article>
+				<a href="/articles/corpus-de-sang/ca">Corpus de Sang 1640</a>
+			</article>
+		</section>
 	</main>
 </Layout>
