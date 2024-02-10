@@ -2,10 +2,10 @@
 layout: "../../../layouts/article-layout.astro"
 title: "Corpus de Sang and the Reapers' War"
 introduction: "In 1640, more than 2.000 farmers tired of abusements and lootings by Castilians to the local catalan population, went to Barcelona with the goal of making their voices be heard🗡️."
-thumbnail: "https://media.discordapp.net/attachments/1152239048220475516/1205195679497060393/els-segadors-catalunya.webp"
+thumbnail: "https://i.ibb.co/6JnLb4P/els-segadors-catalunya.webp"
 ---
 
-## Per què va començar?
+## Why did it start?
 
 During the **War of 30 Years**⚔️, the king Philip IV of Castile👑 wanted to collect taxes to catalans and recruit them for the war. The problem is that the Catalan Constituion doesn't allow the king to use the resources and population.
 
@@ -23,7 +23,7 @@ One of the places were the farmers were mostly heard was _Santa Coloma de Farner
 
 This had just started. Santa Coloma rang the bells🔔 to gather the farmers armed and kick the Castilian troops.
 
-## Començ de _La Guerra dels Segadors_
+## Start of _Reapers' War_
 
 The Castilian viceroy, sent to Catalonia by the king Philip IV of Castile, **punished the farmers destroying all the city of Santa Coloma de Farners** together with his army.
 
@@ -35,7 +35,12 @@ Without any resistence and with the aid of Barcelonians, they managed to release
 
 The Castilians, when they saw this, they preparated an army with the goal of suffocating the rebellion. Pau Claris, the president of the Generalitat, who chosen as president the year 1638, alarmed by the conquest of the Castilian army, he **proclamated the Catalan Republic** under the protection of the king of France, Lluis XIII.
 
-<img data-src="https://media.discordapp.net/attachments/1152239048220475516/1205449102897324122/republica_catalana.webp" alt="Mapa de la Republica Catalana" class="h-[300px]" style="aspect-ratio: 199/100" />
+<div class="w-fit">
+    <img data-src="https://i.ibb.co/n86QWMt/republica-catalana.webp" alt="Mapa de la Republica Catalana" class="h-[300px]" style="aspect-ratio: 199/100" />
+    <p class="text-gray-500">
+        Mapa de la Republica Catalana de 1641
+    </p>
+</div>
 
 ## Republic of Catalonia and battle of Montjuïc
 
@@ -45,7 +50,12 @@ They managed to conquer Tarragona. However, when they arrived to Montjuïc, the 
 
 The French army, together with the reapers/farmers, **won the decisive battle**
 
-<img data-src="https://cdn.discordapp.com/attachments/1152239048220475516/1205451200846372896/pau_claris.webp" alt="Imatge de Pau Claris" class="h-[200px]" style="aspect-ratio: 77/100">
+<div class="w-fit">
+    <img data-src="https://i.ibb.co/ng4dbHQ/pau-claris-photo.webp" class="h-[200px]" style="aspect-ratio: 77/100" />
+    <p class="text-gray-500">
+        Foto de Pau Claris
+    </p>
+</div>
 
 ## Death of Pau Claris and the end of the Republic of Catalonia
 
