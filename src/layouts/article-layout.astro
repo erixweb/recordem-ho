@@ -40,19 +40,21 @@ const { thumbnail, title, introduction } = Astro.props.frontmatter
 	</head>
 	<body class="m-auto min-h-[100vh] w-full font-[Onest] px-[15px]">
 		<Nav />
-		<header class="max-w-[750px] mt-[120px]">
-			<h1>
-				{title}
-			</h1>
-			<p>
-				{introduction}
-			</p>
+		<header class="p-[20px] w-full mt-[120px]">
 			<img
 				data-src={thumbnail}
 				alt={title}
-				class="rounded-[5px] shadow-xl"
+				class="rounded-[5px] shadow-xl max-h-[550px] w-full max-w-[1200px] object-cover"
 				style="aspect-ratio: 150/97;"
 			/>
+			<div class="p-[20px] w-full max-w-[750px]">
+				<h1 class="mt-[60px]">
+					{title}
+				</h1>
+				<p>
+					{introduction}
+				</p>
+			</div>
 		</header>
 		<main class="p-[20px] max-w-[750px]">
 			<slot />
