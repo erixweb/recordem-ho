@@ -16,14 +16,14 @@ const { thumbnail, title, introduction } = Astro.props.frontmatter
 		<title>{title}</title>
 		<link rel="preload" href="/fonts/Onest-Medium.woff2" crossorigin="" as="font" />
 		<link rel="preload" href="/fonts/Onest-Bold.woff2" crossorigin="" as="font" />
-		<script is:inline>
-			const Lazy = (target) => {
+		<script>
+			const Lazy = (target: any) => {
 				const io = new IntersectionObserver((entries, observer) => {
 					entries.forEach((entry) => {
 						let elementName = entry.target.nodeName.toLocaleLowerCase()
 						if (entry.isIntersecting && elementName === "img") {
 							const img = entry.target
-							img.setAttribute("src", img.getAttribute("data-src"))
+							img.setAttribute("src", img.getAttribute("data-src")!)
 							img.classList.add("fade")
 							observer.disconnect()
 						}
