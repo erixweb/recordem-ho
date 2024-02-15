@@ -1,0 +1,29 @@
+---
+interface Props {
+    img: string
+    title: string
+    desc: string
+    url: string
+}
+
+const { img, title, desc, url} = Astro.props
+---
+
+
+<a href={url}>
+    <div>
+        <img
+            data-src=`${img}`
+            alt=`${title}`
+            class="rounded-[7px]"
+        />
+    </div>
+    <div>
+        <h2 class="font-bold text-[20px] mt-[10px]">
+            {title}
+        </h2>
+        <p class="mt-[10px] text-[14px] text-gray-400">
+            {desc}
+        </p>
+    </div>
+</a>
