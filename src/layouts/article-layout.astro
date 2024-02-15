@@ -14,8 +14,8 @@ const { thumbnail, title, introduction } = Astro.props.frontmatter
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
-		<link rel="preload" href="/fonts/Onest-Medium.woff2" crossorigin="" as="font" />
-		<link rel="preload" href="/fonts/Onest-Bold.woff2" crossorigin="" as="font" />
+		<link rel="preload" as="font" href="/fonts/Onest-Medium.woff2" crossorigin="" />
+		<link rel="preload" as="font" href="/fonts/Onest-Bold.woff2" crossorigin="" />
 		<script>
 			const Lazy = (target: any) => {
 				const io = new IntersectionObserver((entries, observer) => {

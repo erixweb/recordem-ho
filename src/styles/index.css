@@ -7,7 +7,7 @@
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url(/fonts/Onest-Medium.woff2) format("woff2");
+    src: url("/fonts/Onest-Medium.woff2") format("woff2");
 }
 
 @font-face {
@@ -15,7 +15,7 @@
     font-style: normal;
     font-weight: 800;
     font-display: swap;
-    src: url(/fonts/Onest-Bold.woff2) format("woff2");
+    src: url("/fonts/Onest-Bold.woff2") format("woff2");
 }
 
 * {
