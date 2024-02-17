@@ -36,7 +36,7 @@ Sense cap resistència i l'ajuda dels Barcelonins, van aconseguir alliberar als 
 Els castellans, al veure això, van preparar un exèrcit amb l'objectiu de sufocar la revolta. Pau Claris, president de la Generalitat escollit l'any 1638, alarmat per la penetració de l'exèrcit castellà, **proclama la Republica Catalana** l'any 1641, sota protecció del rei de França, Lluis XII.
 
 <div class="w-fit">
-    <img data-src="https://i.ibb.co/n86QWMt/republica-catalana.webp" alt="Mapa de la Republica Catalana" class="h-[300px]" style="aspect-ratio: 199/100" />
+    <img data-src="https://i.ibb.co/n86QWMt/republica-catalana.webp" alt="Mapa de la Republica Catalana" class="h-[300px]" style="" />
     <p class="text-gray-500">
         Mapa de la Republica Catalana de 1641
     </p>
