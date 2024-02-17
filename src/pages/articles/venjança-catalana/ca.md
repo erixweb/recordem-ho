@@ -12,3 +12,5 @@ Després de la _Guerra de Sicília_, **Roger de Flor funda la Gran Companyia Cat
 La Gran Companyia, **es contractada per l'emperador de l'Imperi Romà d'Orient**, Andrònic II, amb l'objectiu de fer fora als Turcs de la regió.
 
 Això no era una tarea precisament fàcil, **els Turcs gairebé triplicaven en nombre als Catalans**. Per si això no fos prou, els Turcs tenien els millors arquers.
+
+Els catalans,
