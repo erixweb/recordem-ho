@@ -41,3 +41,15 @@ Malgrat que l'imperi assetgès la ciutat multiples vegades, els almogàvers sort
 Amb una absoluta victòria per part dels almogàvers, **decideixen venjar-se arrasant, saquejant i matant a tota la població** de l'actual Grècia.
 
 Els alans, còmplices en l'assesinat de Roger de Flor, conscients del que se'ls vindria, **van matar a les seves pròpies dones i fills amb la fi de que no caiguessin sota mans dels catalans**.
+
+Cita de Bernat de Rocafort:
+
+> > << Mateu-los. A tots. >>
+
+## Paraules que segueixen avui dia per refir-se als catalans.
+
+Avui dia, degut a la brutal venjança per part dels catalans, a Albania, _"Katallan"_ vol dir **home lleig i dolent**
+
+En Bulgaria, _Català_ o _Fill de Català_ és una expressió per dir **home malvat, sense ànima i torturador**
+
+D'algunes regions de Grècia arriben refranys com: _"Que et vegi sota l'espassa d'un català"_ o _"El grec es rentava i el català s'emmardava"_
