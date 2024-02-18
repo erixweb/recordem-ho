@@ -13,7 +13,7 @@ La Gran Companyia, **es contractada per l'emperador de l'Imperi Romà d'Orient**
 
 Això no era una tarea precisament fàcil, **els Turcs gairebé triplicaven en nombre als Catalans**. Per si això no fos prou, els Turcs tenien els millors arquers.
 
-Els amogàvers (exèrcit català), malgrat estar clarament en desaventatge i gairebé amb el pit al descobert (sense escut o armadura), **anaven tan ràpids que esquivaven les fletxes**. Van arribar a la línea de defensa i via el crit de _DESPERTA FERRO_ aconsegueix que els Turcs es retiressin de gairebé totes les batallas.
+Els almogàvers (exèrcit català), malgrat estar clarament en desaventatge i gairebé amb el pit al descobert (sense escut o armadura), **anaven tan ràpids que esquivaven les fletxes**. Van arribar a la línea de defensa i via el crit de _DESPERTA FERRO_ aconsegueix que els Turcs es retiressin de gairebé totes les batallas.
 
 Va ser així, com Roger de Flor, comandant dels Almogàvers, **aconsegueix el control sobre la regió de l'Anatolia**.
 
