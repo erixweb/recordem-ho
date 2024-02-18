@@ -1,5 +1,6 @@
 ---
 import Nav from "../components/nav.astro"
+import Twitter from "../components/twitter.astro"
 import { ViewTransitions } from "astro:transitions"
 import "../styles/index.css"
 
@@ -51,6 +52,14 @@ const { thumbnail, title, introduction } = Astro.props.frontmatter
 				<h1 class="mt-[60px]">
 					{title}
 				</h1>
+				<a
+					class="bg-sky-600 px-[25px] py-[6px] rounded-[10px] text-white font-bold flex w-fit gap-[10px] ml-0"
+					href=`https://twitter.com/intent/post?text=Vols informar-te de la història de Catalunya?%0ALlegeix ${title} en https://recordem-ho.vercel.app%0A%0A%23recordemho`
+					target="_blank"
+				>
+					<Twitter />
+					<span>Comparteix</span>
+				</a>
 				<p>
 					{introduction}
 				</p>

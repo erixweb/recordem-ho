@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/article-layout.astro"
-title: "Venjança Catalana"
 introduction: El emperador de l'Imperi Romà d'Orient decideix contractar l'exèrcit de Roger de Flor per fer fora als Turcs de la regió. Roger de Flor i el seu exèrcit, sota el crit de "Desperta Ferro", sembra el caos i guanya la batalla. El que no esperava Roger de Flor era que l'emperador de l'Imperi Romà d'Orient, li trairia.
+title: "La Venjança Catalana🗡️"
 thumbnail: "https://i.ibb.co/pjwTf8T/venjan-a-catalana.webp"
 ---
 
