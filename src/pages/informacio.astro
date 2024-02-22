@@ -1,0 +1,67 @@
+---
+import Layout from "../layouts/layout.astro"
+import Article from "../components/article.astro"
+import Header from "../components/header.astro"
+---
+
+<Layout title="Recordem-ho | Història">
+	<main class="p-[20px] max-w-[1000px] mt-[80px]">
+		<section id="fonts-de-informacio">
+			<h1 class="font-bold text-[35px] text-center">Fonts d'informació</h1>
+			<p class="max-w-[650px] m-auto mt-[20px]">
+				La informació está majoritariament basada en documentació de <strong
+					>Wikipedia</strong
+				>. L'altre part de la informació que no està basada en Wikipedia, és trobada a
+				diferents llocs web i es comprova que sigui una informació verídica.
+			</p>
+			<p class="max-w-[650px] m-auto mt-[20px]">
+				D'altre banda, les fotos o ilustracions utilitzades, també son tretes
+				majoritariament de Wikipedia.
+			</p>
+			<p class="max-w-[650px] m-auto mt-[20px]">
+				Pàgines d'on s'han tret informació per articles.
+			</p>
+			<table class="w-full max-w-[650px]">
+				<thead class="">
+					<tr>
+						<th class="text-start"> Article</th>
+						<th class="text-start"> Enllaços</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr class="border-[2px] border-slate-500">
+						<td class="w-full px-[10px]"> La Venjança Catalana</td>
+						<td class="w-full px-[10px]">
+							<a
+								href="https://ca.wikipedia.org/wiki/Venjan%C3%A7a_Catalana"
+								class="text-blue-600 text-[12px]"
+								>https://ca.wikipedia.org/wiki/Venjança_Catalana</a
+							>
+							<a
+								href="https://ca.wikipedia.org/wiki/Batalla_d'Àulax"
+								class="text-blue-600 text-[12px]"
+								rel="nofollow">https://ca.wikipedia.org/wiki/Batalla_d'Àulax</a
+							>
+							<a
+								href="https://ca.wikipedia.org/wiki/Gran_Companyia_Catalana"
+								class="text-blue-600 text-[12px]"
+								rel="nofollow"
+								>https://ca.wikipedia.org/wiki/Gran_Companyia_Catalana</a
+							>
+						</td>
+					</tr>
+					<tr class="border-[2px] border-slate-500">
+						<td class="w-full px-[10px]">Liber Maiolichinus</td>
+						<td class="w-full px-[10px]">
+							<a
+								href="https://ca.wikipedia.org/wiki/Liber_Maiolichinus"
+								class="text-blue-600 text-[12px]"
+								>https://ca.wikipedia.org/wiki/Liber_Maiolichinus</a
+							>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</section>
+	</main>
+</Layout>
