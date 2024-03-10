@@ -51,9 +51,6 @@ const { thumbnail, title, introduction } = Astro.props.frontmatter
 				style="aspect-ratio: 150/97;"
 			/>
 			<div class="p-[20px] w-full max-w-[750px]">
-				<h1 class="mt-[60px]">
-					{title}
-				</h1>
 				<a
 					class="bg-sky-600 px-[25px] py-[6px] rounded-[10px] text-white font-bold flex w-fit gap-[10px] ml-0"
 					href=`https://twitter.com/intent/post?text=Vols informar-te de la història de Catalunya?%0ALlegeix ${title} en https://recordem.vercel.app%0A%0A%23recordemho`
@@ -62,6 +59,9 @@ const { thumbnail, title, introduction } = Astro.props.frontmatter
 					<Twitter />
 					<span>Comparteix</span>
 				</a>
+				<h1 class="mt-[60px]">
+					{title}
+				</h1>
 				<p>
 					{introduction}
 				</p>
