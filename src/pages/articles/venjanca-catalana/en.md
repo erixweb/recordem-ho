@@ -27,13 +27,12 @@ And with that, Roger de Flor, captain of the Almogàvers, **took control of the 
 
 As a reward, Roger de Flor, received a **Cesar** title from the Eatern Roman Empire. Nonetheless, **this wasn't aproved by the nobility** as it would mean that the Catalans would have a lot of power inside the empire.
 
-Per aquesta raó, el fill de l'emperador, Miquel, convoca a Roger de Flor a un sopar. En aquest sopar, **a traïció, ell i un grup de grecs i alans, l'assesina i persegueix als catalans dins l'imperi**.
+For this reason, the son of the emperor, Miquel, called Roger the Flor to have dinner.
+While having dinner, **the emperor and a group of Greeks, killed Roger de Flor and chased Catalans inside the empire**.  
 
-Genovesos, Grecs i Alans s'uneixen per acabar amb el poder català dins l'imperi.
+## How did they take revenge?
 
-## Com es venjen?
-
-Els almogàvers es reuneixen juntament amb el seu nou cabdill, Bernat de Rocafort, a Gal·lipoli. Amb la fi de mostrar la seva valentia, els almogàvers, cremen els seus propis vaixells amb el crit de _Cremem les nostres naus!_ i declaren la guerra a l'imperi.
+The Almogàvers gather together with their new leader, Bernat de Rocafort, in Galipoli. With the intention of proving their braveness, the Almogàvers burnt their own ships shouting _Cremem les nostres naus!_ and declared the war to the Empire.
 
 Malgrat que l'imperi assetgès la ciutat multiples vegades, els almogàvers sortien i arrasaven les tropes de l'imperi.
 
