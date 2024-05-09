@@ -4,7 +4,20 @@ import Twitter from "../components/twitter.astro"
 import { ViewTransitions } from "astro:transitions"
 import "../styles/index.css"
 
-const { thumbnail, title, introduction } = Astro.props.frontmatter
+const { thumbnail, title, introduction, langs } = Astro.props.frontmatter
+
+const languages: any = [
+	{
+		"ca": {
+			name: "ca",
+			fullName: "Català"
+		},
+		"en": {
+			name: "en",
+			fullName: "English"
+		}
+	}
+]
 ---
 
 <!doctype html>
@@ -68,6 +81,11 @@ const { thumbnail, title, introduction } = Astro.props.frontmatter
 			</div>
 		</header>
 		<main class="p-[20px] max-w-[750px]">
+			<select name="lang" id="lang" class="bg-slate-700 p-[8px] rounded-full" onchange={"window.location.href = `${this.value}`"}>
+				{langs.map((lang: string) => {
+					return <option value={lang}>{languages[0][lang].fullName}</option>
+				})}
+			</select>
 			<slot />
 		</main>
 		<style is:global>
