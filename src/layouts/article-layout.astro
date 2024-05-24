@@ -78,14 +78,14 @@ const languages: any = [
 				<p>
 					{introduction}
 				</p>
+				<select name="lang" id="lang" class="bg-slate-700 py-[8px] px-[20px] rounded-full" onchange={"window.location.href = `${this.value}`"}>
+					{langs.map((lang: string) => {
+						return <option value={lang}>{languages[0][lang].fullName}</option>
+					})}
+				</select>
 			</div>
 		</header>
 		<main class="p-[20px] max-w-[750px]">
-			<select name="lang" id="lang" class="bg-slate-700 p-[8px] rounded-full" onchange={"window.location.href = `${this.value}`"}>
-				{langs.map((lang: string) => {
-					return <option value={lang}>{languages[0][lang].fullName}</option>
-				})}
-			</select>
 			<slot />
 		</main>
 		<style is:global>
