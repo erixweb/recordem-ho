@@ -24,9 +24,9 @@ const languages: any = [
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" href="/patria.webp">
 		<title>{title}</title>
 		<link rel="preload" as="font" href="/fonts/Onest-Medium.woff2" crossorigin="" />
 		<link rel="preload" as="font" href="/fonts/Onest-Bold.woff2" crossorigin="" />
@@ -103,6 +103,13 @@ const languages: any = [
 			p {
 				margin-top: 20px;
 				margin-bottom: 20px;
+			}
+			em {
+				color: rgb(255, 233, 87);
+			}
+			strong {
+				font-weight: 500;
+				color: rgb(169, 190, 227);
 			}
 			main img {
 				object-fit: cover;
