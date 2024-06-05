@@ -2,6 +2,8 @@
 import Layout from "../layouts/layout.astro"
 import Article from "../components/article.astro"
 import Header from "../components/header.astro"
+
+const posts = await Astro.glob("./articles/*/ca.md")
 ---
 
 <Layout title="Pàtria | Història">
@@ -9,26 +11,18 @@ import Header from "../components/header.astro"
 	<main class="p-[20px] max-w-[1000px]">
 		<section id="llegeix">
 			<div class="grid grid-cols-3 max-md:grid-cols-2 max-sm:grid-cols-1 gap-[20px]">
-				<Article
-					title="Corpus de Sang i Guerra dels Segadors"
-					desc=`En 1640, més de 2.000 pagesos cansats dels abusos i saquejos castellans
-					a les poblacions locals catalanes, van anar cap a Barcelona amb
-					l'objectiu de fer valer la seva veu🗡️.`
-					url="/articles/corpus-de-sang/ca"
-					img="https://i.ibb.co/6JnLb4P/els-segadors-catalunya.webp"
-				/>
-				<Article
-					title="Liber Mailochinus"
-					desc=`L'any 1113, en la conquesta de Mallorca controlada en aquell moment pels musulmans, va ser la primera vegada que es va usar el topònim Catalunya.`
-					url="/articles/liber-maiolichinus/ca"
-					img="https://i.ibb.co/pwqHJ6V/liber-maiolichinus.webp"
-				/>
-				<Article
-					title="Venjança Catalana"
-					desc=`El emperador de l'Imperi Romà d'Orient decideix contractar l'exèrcit de Roger de Flor per fer fora als Turcs de la regió. Roger de Flor i el seu exèrcit, sota el crit de "Desperta Ferro", sembra el caos i guanya la batalla. El que no esperava Roger de Flor era que l'emperador de l'Imperi Romà d'Orient, li trairia.`
-					url="/articles/venjanca-catalana/ca"
-					img="https://i.ibb.co/pjwTf8T/venjan-a-catalana.webp"
-				/>
+				{
+					posts.map((post) => {
+						return (
+							<Article
+								title={post.frontmatter.title}
+								desc={post.frontmatter.introduction}
+								url={post.url!}
+								img={post.frontmatter.thumbnail}
+							/>
+						)
+					})
+				}
 			</div>
 			<h1 class="py-[20px] text-[30px] font-bold">Desmentit!</h1>
 			<div class="grid grid-cols-3 max-md:grid-cols-2 max-sm:grid-cols-1 gap-[20px]">
