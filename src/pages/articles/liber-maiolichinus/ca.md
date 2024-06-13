@@ -2,7 +2,7 @@
 layout: "../../../layouts/article-layout.astro"
 title: "Liber Maiolichinus"
 introduction: "L'any 1113, en la conquesta de Mallorca controlada en aquell moment pels musulmans, va ser la primera vegada que es va usar el topònim Catalunya."
-thumbnail: "https://i.ibb.co/pwqHJ6V/liber-maiolichinus.webp"
+thumbnail: "https://erixweb.github.io/images/patria/liber-maiolichinus.webp"
 langs: ["ca"]
 ---
 

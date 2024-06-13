@@ -2,7 +2,7 @@
 layout: "../../../layouts/article-layout.astro"
 title: "Corpus de Sang and the Reapers' War"
 introduction: "In 1640, more than 2.000 farmers tired of abusements and lootings by Castilians to the local catalan population, went to Barcelona with the goal of making their voices be heard🗡️."
-thumbnail: "https://i.ibb.co/6JnLb4P/els-segadors-catalunya.webp"
+thumbnail: "https://erixweb.github.io/images/patria/els-segadors-catalunya.webp"
 langs: ["ca", "en"]
 ---
 
@@ -37,7 +37,7 @@ Without any resistence and with the aid of Barcelonians, they managed to release
 The Castilians, when they saw this, they preparated an army with the goal of suffocating the rebellion. Pau Claris, the president of the Generalitat, who chosen as president the year 1638, alarmed by the conquest of the Castilian army, he **proclamated the Catalan Republic** under the protection of the king of France, Lluis XIII.
 
 <div class="w-fit">
-    <img data-src="https://i.ibb.co/n86QWMt/republica-catalana.webp" alt="Mapa de la Republica Catalana" class="h-[300px]" style="aspect-ratio: 199/100" />
+    <img data-src="https://erixweb.github.io/images/patria/republica_catalana.webp" alt="Mapa de la Republica Catalana" class="h-[300px]" style="aspect-ratio: 199/100" />
     <p class="text-gray-500">
         Mapa de la Republica Catalana de 1641
     </p>
@@ -52,7 +52,7 @@ They managed to conquer Tarragona. However, when they arrived to Montjuïc, the 
 The French army, together with the reapers/farmers, **won the decisive battle**
 
 <div class="w-fit">
-    <img data-src="https://i.ibb.co/ng4dbHQ/pau-claris-photo.webp" class="h-[200px]" style="aspect-ratio: 77/100" />
+    <img data-src="https://erixweb.github.io/images/patria/pau_claris_photo.webp" class="h-[200px]" style="aspect-ratio: 77/100" />
     <p class="text-gray-500">
         Foto de Pau Claris
     </p>

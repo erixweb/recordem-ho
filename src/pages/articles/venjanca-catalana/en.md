@@ -2,7 +2,7 @@
 layout: "../../../layouts/article-layout.astro"
 introduction: The emperor of the Eastern Roman Empire decided to hire the army of Roger de Flor to kick out the Turks from the region. Roger de Flor and his army, under the war cry of "Desperta Ferro", the chaos had started and they ended up winning the battle. What Roger de Flor didn't expect was the emperor of the Eastern Roman Empire to betray him.
 title: "The Catalan Revenge🗡️"
-thumbnail: "https://i.ibb.co/pjwTf8T/venjan-a-catalana.webp"
+thumbnail: "https://erixweb.github.io/images/patria/venjanca-catalana.webp"
 langs: ["ca", "en"]
 ---
 ## What happened before the revenge?
@@ -18,7 +18,7 @@ The Catalan army (Almogàvers) even though they were clearly in disadventage and
 And with that, Roger de Flor, captain of the Almogàvers, **took control of the region of the Anatolia**.
 
 <div class="w-fit">
-    <img data-src="https://i.ibb.co/Fgw8kv8/anatolia.webp" alt="Mapa de la regió de l'Anatòlia, Turquia" class="h-auto" style="aspect-ratio: 199/100" />
+    <img data-src="https://erixweb.github.io/images/patria/anatolia.webp" alt="Mapa de la regió de l'Anatòlia, Turquia" class="h-auto" style="aspect-ratio: 199/100" />
     <p class="text-gray-500">
         Mapa de la regió de l'Anatòlia, Turquia
     </p>

@@ -2,7 +2,7 @@
 layout: "../../../layouts/article-layout.astro"
 introduction: El emperador de l'Imperi Romà d'Orient decideix contractar l'exèrcit de Roger de Flor per fer fora als Turcs de la regió. Roger de Flor i el seu exèrcit, sota el crit de "Desperta Ferro", sembra el caos i guanya la batalla. El que no esperava Roger de Flor era que l'emperador de l'Imperi Romà d'Orient, li trairia.
 title: "La Venjança Catalana🗡️"
-thumbnail: "https://i.ibb.co/pjwTf8T/venjan-a-catalana.webp"
+thumbnail: "https://erixweb.github.io/images/patria/venjanca-catalana.webp"
 langs: ["ca", "en"]
 ---
 
@@ -19,7 +19,7 @@ Els almogàvers (exèrcit català), malgrat estar clarament en desaventatge i ga
 Va ser així, com Roger de Flor, comandant dels Almogàvers, **aconsegueix el control sobre la regió de l'Anatolia**.
 
 <div class="w-fit">
-    <img data-src="https://i.ibb.co/Fgw8kv8/anatolia.webp" alt="Mapa de la regió de l'Anatòlia, Turquia" class="h-auto" style="aspect-ratio: 199/100" />
+    <img data-src="https://erixweb.github.io/images/patria/anatolia.webp" alt="Mapa de la regió de l'Anatòlia, Turquia" class="h-auto" style="aspect-ratio: 199/100" />
     <p class="text-gray-500">
         Mapa de la regió de l'Anatòlia, Turquia
     </p>

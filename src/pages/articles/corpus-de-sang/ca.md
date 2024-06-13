@@ -2,7 +2,7 @@
 layout: "../../../layouts/article-layout.astro"
 title: "Corpus de Sang i Guerra dels Segadors"
 introduction: "En 1640, més de 2.000 pagesos, cansats dels abusos i saquejos castellans a les poblacions locals catalanes, van anar cap a Barcelona amb l'objectiu de fer valer la seva veu🗡️."
-thumbnail: "https://i.ibb.co/6JnLb4P/els-segadors-catalunya.webp"
+thumbnail: "https://erixweb.github.io/images/patria/els-segadors-catalunya.webp"
 langs: ["ca", "en"]
 ---
 
@@ -37,7 +37,7 @@ Sense cap resistència i amb l'ajuda dels Barcelonins, van aconseguir alliberar 
 Els castellans, al veure això, van preparar un exèrcit amb l'objectiu de sufocar la revolta. Pau Claris, president de la Generalitat escollit l'any 1638, alarmat per la penetració de l'exèrcit castellà, **proclama la Republica Catalana** l'any 1641, sota protecció del rei de França, Lluis XIII.
 
 <div class="w-fit">
-    <img data-src="https://i.ibb.co/n86QWMt/republica-catalana.webp" alt="Mapa de la Republica Catalana" class="h-[300px]" style="" />
+    <img data-src="https://erixweb.github.io/images/patria/republica_catalana.webp" alt="Mapa de la Republica Catalana" class="h-[300px]" style="" />
     <p class="text-gray-500">
         Mapa de la Republica Catalana de 1641
     </p>
@@ -52,7 +52,7 @@ Van aconseguir prendre Tarragona, tot i això, quan van arribar a Montjuïc, es 
 L'exèrcit francés, juntament amb els segadors, **van guanyar la decisiva batalla**.
 
 <div class="w-fit">
-    <img data-src="https://i.ibb.co/ng4dbHQ/pau-claris-photo.webp" class="h-[200px]" style="aspect-ratio: 77/100" />
+    <img data-src="https://erixweb.github.io/images/patria/pau_claris_photo.webp" class="h-[200px]" style="aspect-ratio: 77/100" />
     <p class="text-gray-500">
         Foto de Pau Claris
     </p>
