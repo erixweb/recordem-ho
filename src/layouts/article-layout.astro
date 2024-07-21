@@ -4,19 +4,19 @@ import Twitter from "../components/twitter.astro"
 import { ViewTransitions } from "astro:transitions"
 import "../styles/index.css"
 
-const { thumbnail, title, introduction, langs } = Astro.props.frontmatter
+const { thumbnail, title, introduction, langs, language } = Astro.props.frontmatter
 
 const languages: any = [
 	{
-		"ca": {
+		ca: {
 			name: "ca",
-			fullName: "Català"
+			fullName: "Català",
 		},
-		"en": {
+		en: {
 			name: "en",
-			fullName: "English"
-		}
-	}
+			fullName: "English",
+		},
+	},
 ]
 ---
 
@@ -26,9 +26,9 @@ const languages: any = [
 		<meta charset="utf-8" />
 		<meta name="generator" content={Astro.generator} />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" href="/patria.webp">
+		<link rel="icon" href="/patria.webp" />
 		<title>{title}</title>
-		<link rel="preconnect" href="https://erixweb.github.io">
+		<link rel="preconnect" href="https://erixweb.github.io" />
 		<link rel="preload" as="font" href="/fonts/Onest-Medium.woff2" crossorigin="" />
 		<link rel="preload" as="font" href="/fonts/Onest-Bold.woff2" crossorigin="" />
 		<script>
@@ -79,10 +79,22 @@ const languages: any = [
 				<p>
 					{introduction}
 				</p>
-				<select name="lang" id="lang" class="bg-slate-700 py-[8px] px-[20px] rounded-full" onchange={"window.location.href = `${this.value}`"}>
-					{langs.map((lang: string) => {
-						return <option value={lang}>{languages[0][lang].fullName}</option>
-					})}
+				<select
+					name="lang"
+					id="lang"
+					class="bg-slate-700 py-[8px] px-[20px] rounded-full"
+					onchange={"window.location.href = `${this.value}`"}
+				>
+					<option value={language}>{languages[0][language].fullName}</option>
+					{
+						langs.map((lang: string) => {
+							return lang !== language ? (
+								<option value={lang}>{languages[0][lang].fullName}</option>
+							) : (
+								""
+							)
+						})
+					}
 				</select>
 			</div>
 		</header>

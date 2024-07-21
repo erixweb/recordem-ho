@@ -4,6 +4,7 @@ title: "Corpus de Sang i Guerra dels Segadors"
 introduction: "En 1640, més de 2.000 pagesos, cansats dels abusos i saquejos castellans a les poblacions locals catalanes, van anar cap a Barcelona amb l'objectiu de fer valer la seva veu🗡️."
 thumbnail: "https://erixweb.github.io/images/patria/els-segadors-catalunya.webp"
 langs: ["ca", "en"]
+language: "ca"
 ---
 
 ## Per què va començar?

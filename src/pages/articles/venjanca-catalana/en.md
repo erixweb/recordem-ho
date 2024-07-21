@@ -4,6 +4,7 @@ introduction: The emperor of the Eastern Roman Empire decided to hire the army o
 title: "The Catalan Revenge🗡️"
 thumbnail: "https://erixweb.github.io/images/patria/venjanca-catalana.webp"
 langs: ["ca", "en"]
+language: "en"
 ---
 ## What happened before the revenge?
 

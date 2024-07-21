@@ -4,6 +4,7 @@ introduction: El emperador de l'Imperi Romà d'Orient decideix contractar l'exè
 title: "La Venjança Catalana🗡️"
 thumbnail: "https://erixweb.github.io/images/patria/venjanca-catalana.webp"
 langs: ["ca", "en"]
+language: "ca"
 ---
 
 ## Què va passar abans de la venjança?

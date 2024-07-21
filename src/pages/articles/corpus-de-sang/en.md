@@ -4,6 +4,7 @@ title: "Corpus de Sang and the Reapers' War"
 introduction: "In 1640, more than 2.000 farmers tired of abusements and lootings by Castilians to the local catalan population, went to Barcelona with the goal of making their voices be heard🗡️."
 thumbnail: "https://erixweb.github.io/images/patria/els-segadors-catalunya.webp"
 langs: ["ca", "en"]
+language: "en"
 ---
 
 ## Why did it start?
