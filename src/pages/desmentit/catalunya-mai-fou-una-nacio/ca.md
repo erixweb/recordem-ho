@@ -4,6 +4,7 @@ introduction: N'hi ha el mite de que Catalunya mai ha estat una nació i sempre 
 title: "Mite: Catalunya mai fou una nació"
 thumbnail: "https://i.ibb.co/ZzHDsLx/catalunya-nacio.webp"
 langs: ["ca"]
+language: "ca"
 ---
 
 ## Per què Catalunya és una nació?
