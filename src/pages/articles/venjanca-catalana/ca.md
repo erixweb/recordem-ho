@@ -28,7 +28,7 @@ Va ser així, com Roger de Flor, comandant dels Almogàvers, **aconsegueix el co
 
 ## Per què es venjen?
 
-Com a recompensa, aquest, va ser nomenar **Cèsar** (hereu del govern) de l'Imperi Romà d'Orient. Això, **no agradava a la noblesa** al significar que els catalans tindrien molt poder dins l'imperi.
+Com a recompensa, aquest, va ser nomenat **Cèsar** (hereu del govern) de l'Imperi Romà d'Orient. Això, **no agradava a la noblesa** al significar que els catalans tindrien molt poder dins l'imperi.
 
 Per aquesta raó, el fill de l'emperador, Miquel, convoca a Roger de Flor a un sopar. En aquest sopar, **a traïció, ell i un grup de grecs i alans, l'assesina i persegueix als catalans dins l'imperi**.
 

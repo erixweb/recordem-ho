@@ -1,6 +1,6 @@
 ---
 layout: "../../../layouts/article-layout.astro"
-introduction: The emperor of the Eastern Roman Empire decided to hire the army of Roger de Flor to kick out the Turks from the region. Roger de Flor and his army, under the war cry of "Desperta Ferro", the chaos had started and they ended up winning the battle. What Roger de Flor didn't expect was the emperor of the Eastern Roman Empire to betray him.
+introduction: The emperor of the Eastern Roman Empire decided to hire the army of Roger de Flor to kick out the Turks from the region. Roger de Flor and his army, under the war cry of "Desperta Ferro" started the chaos and they ended up winning the battle. What Roger de Flor didn't expect was that the emperor of the Eastern Roman Empire would betray him.
 title: "The Catalan Revenge🗡️"
 thumbnail: "https://erixweb.github.io/images/patria/venjanca-catalana.webp"
 langs: ["ca", "en"]
@@ -8,7 +8,7 @@ language: "en"
 ---
 ## What happened before the revenge?
 
-After the _War of Sicilia_, **Roger de Flor founded the Great Catalan Company** in 1303. The Great Catalan Company was a group of mercenaries **which where mainly part of the catalan army (Almogàvers) and fighters of the War of Sicily**.
+After the _War of Sicilia_, **Roger de Flor founded the Great Catalan Company** in 1303. The Great Catalan Company was a group of mercenaries **which were mainly part of the catalan army (Almogàvers) and fighters of the War of Sicily**.
 
 The Great Company, **was contracted by the emperor of the Eastern Roman Empire**, Andrònic II, with the goal of kicking out the Turks from the region.
 
