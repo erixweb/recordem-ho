@@ -28,3 +28,13 @@ Va ser així com el 9 de juliol de 1713 es va fer una proclamació pública de g
 Malgrat la fam i la por causada pels bombardejos, els Barcelonins juntament amb els aliats Àustries continuaven lluitant.
 
 La gent disposada a lluitar per les constitucions catalanes i per la llibertat, van cridar per última vegada _Lliures o morts_ l'11 de Setembre de 1714 tras haver resistit més d'1 any. 
+
+Tot i que el general **Antoni de Villaroel** va caure ferit, va continuar dictant ordres a la resistència fins morir. 
+
+## Fossar de les Moreres
+
+És al Fossar de les Moreres on **s'enterren aquelles persones que van lluitar per la llibertat i les constitucions catalanes**.
+
+El color vermell del monument representa _la sang vessada per tal de defensar Catalunya_.
+
+> << AQUÍ NO SHI ENTERRA CAP TRAIDOR; FINS PERDENT NOSTRES BANDERES SERÀ L'URNA DE L'HONOR >>
