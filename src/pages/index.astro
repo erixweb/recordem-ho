@@ -10,7 +10,22 @@ const posts = await Astro.glob("./articles/*/ca.md")
 	<Header />
 	<main class="p-[20px] max-w-[1000px]">
 		<section id="llegeix">
-			<div class="grid grid-cols-3 max-md:grid-cols-2 max-sm:grid-cols-1 gap-[20px]">
+			<div class="w-full">
+				<a href="/" class="flex gap-[20px] items-center justify-center bg-zinc-800 shadow-lg shadow-zinc-600 rounded-[15px] h-[300px]">
+					<div class="h-full mt-0 flex">
+						<img data-src="https://erixweb.github.io/images/patria/setge_de_barcelona.webp" alt=`Article de Guerra de Successió` class="cursor-pointer h-full mt-0 rounded-r-none" />
+					</div>
+					<div class="mt-[10px] p-[16px] h-full">
+						<h2 class="font-bold text-[20px] mt-[10px] text-start">
+							Setge de Barcelona, 1714
+						</h2>
+						<p class="mt-[10px] text-[20px] text-gray-400 max-w-[]">
+							L'inici del final. El final de les constitucions catalanes, l'inici d'unes lleis militaristes i la repressió per part dels Borbons als catalans. 	
+						</p>
+					</div>
+				</a>
+			</div>
+			<div class="grid grid-cols-3 max-md:grid-cols-2 max-sm:grid-cols-1 gap-[20px] mt-[40px]">
 				{
 					posts.map((post) => {
 						return (
