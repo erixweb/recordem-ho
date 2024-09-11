@@ -17,7 +17,7 @@ Llavors, _va començar una mena de guerra civil_ en la que lluitaven els borbòn
 
 El poble català estava de part dels Àustries, ja que _els Àustries defansaven la llibertat de les nacions d'Europa_ mentres que **els Borbons volien tenir un estat centralitzat**.
 
-## L'abolició del furs i la Resistència de Catalunya
+## L'abolició dels furs i la Resistència de Catalunya
 
 El bàndol Borbònic es va fer amb el Regne d'Aragó i el Regne de València. Amb el _Decret de Nova Planta_, Felip V va abolir els furs d'aquests regnes, **traïnt a les constitucions que ell mateix havia jurat respectar**.
 
