@@ -4,6 +4,8 @@ import Article from "../components/article.astro"
 import Header from "../components/header.astro"
 
 const posts = await Astro.glob("./articles/*/ca.md")
+
+const randomPost = posts[Math.floor(Math.random() * posts.length)]
 ---
 
 <Layout title="Pàtria | Història">
@@ -11,16 +13,17 @@ const posts = await Astro.glob("./articles/*/ca.md")
 	<main class="p-[20px] max-w-[1000px]">
 		<section id="llegeix">
 			<div class="w-full">
+				
 				<a href="/articles/guerra-de-successio/ca" class="flex gap-[20px] items-center justify-center bg-zinc-800 shadow-lg shadow-zinc-600 rounded-[15px] h-[300px]">
 					<div class="h-full mt-0 flex">
-						<img data-src="https://erixweb.github.io/images/patria/setge_de_barcelona.webp" alt=`Article de Guerra de Successió` class="cursor-pointer h-full mt-0 rounded-r-none" />
+						<img data-src={randomPost.frontmatter.thumbnail} alt=`Article de Guerra de Successió` class="cursor-pointer h-full mt-0 rounded-r-none" />
 					</div>
 					<div class="mt-[10px] p-[16px] h-full">
 						<h2 class="font-bold text-[20px] mt-[10px] text-start">
-							Setge de Barcelona, 1714
+							{randomPost.frontmatter.title}
 						</h2>
 						<p class="mt-[10px] text-[20px] text-gray-400 max-w-[]">
-							L'inici del final. El final de les constitucions catalanes, l'inici d'unes lleis militaristes i la repressió per part dels Borbons als catalans. 	
+							{randomPost.frontmatter.introduction} 	
 						</p>
 					</div>
 				</a>
