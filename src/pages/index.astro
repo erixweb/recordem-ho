@@ -14,7 +14,7 @@ const randomPost = posts[Math.floor(Math.random() * posts.length)]
 		<section id="llegeix">
 			<div class="w-full">
 				
-				<a href="/articles/guerra-de-successio/ca" class="flex gap-[20px] items-center justify-center bg-zinc-800 shadow-lg shadow-zinc-600 rounded-[15px] h-[300px]">
+				<a href={randomPost.url}  class="flex gap-[20px] items-center justify-center bg-zinc-800 shadow-lg shadow-zinc-600 rounded-[15px] h-[300px]">
 					<div class="h-full mt-0 flex">
 						<img data-src={randomPost.frontmatter.thumbnail} alt=`Article de Guerra de Successió` class="cursor-pointer h-full mt-0 rounded-r-none" />
 					</div>
