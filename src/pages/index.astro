@@ -14,12 +14,12 @@ const randomPost = posts[Math.floor(Math.random() * posts.length)]
 		<section id="llegeix">
 			<div class="w-full">
 				
-				<a href={randomPost.url}  class="flex gap-[20px] items-center justify-center bg-zinc-800 shadow-lg shadow-zinc-600 rounded-[15px] h-[300px]">
+				<a href={randomPost.url}  class="flex gap-[20px] items-center justify-center dark:bg-zinc-800 bg-stone-100 shadow-lg shadow-zinc-600 rounded-[15px] h-[300px]">
 					<div class="h-full mt-0 flex">
 						<img data-src={randomPost.frontmatter.thumbnail} alt=`Article de Guerra de Successió` class="cursor-pointer h-full mt-0 rounded-r-none" />
 					</div>
 					<div class="mt-[10px] p-[16px] h-full">
-						<h2 class="font-bold text-[20px] mt-[10px] text-start">
+						<h2 class="font-bold text-[20px] mt-[10px] text-start dark:text-white text-black">
 							{randomPost.frontmatter.title}
 						</h2>
 						<p class="mt-[10px] text-[20px] text-gray-400 max-w-[]">
