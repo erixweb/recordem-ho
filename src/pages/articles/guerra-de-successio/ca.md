@@ -21,7 +21,7 @@ El poble català estava de part dels Àustries, ja que _els Àustries defansaven
 
 El bàndol Borbònic es va fer amb el Regne d'Aragó i el Regne de València. Amb el _Decret de Nova Planta_, Felip V va abolir els furs d'aquests regnes, **traïnt a les constitucions que ell mateix havia jurat respectar**.
 
-Va ser així com el 9 de juliol de 1713 es va fer una proclamació pública de guerra i com comença el _Setge de Barcelona_ en el qual les tropes borbòniques assetjaven la ciutat.
+Va ser així com el 9 de juliol de 1713 es va fer una proclamació pública de guerra i va ser així com va començar el _Setge de Barcelona_ en el qual les tropes borbòniques assetjaven la ciutat.
 
 ## Fi de la Resistència
 

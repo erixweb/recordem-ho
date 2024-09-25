@@ -27,14 +27,14 @@ Thus, on July 9th of 1713, a proclamation of war was made and the _Siege of Barc
 
 Despite the hunger and the fear caused by the bombs, the Barcelonians together with the Austrian allies continued to fight.
 
-La gent disposada a lluitar per les constitucions catalanes i per la llibertat, van cridar per última vegada _Lliures o morts_ l'11 de Setembre de 1714 tras haver resistit més d'1 any. 
+The people willing to fight for the Catalan constitutions and for freedom, said _Free or dead_ for the last time on Septemeber 11, 1714 after resisting for more than 1 year. 
 
-Tot i que el general **Antoni de Villaroel** va caure ferit, va continuar dictant ordres a la resistència fins morir. 
+Although the general **Antoni de Villaroel** was injured, he continued giving orders to the resistance until he died.
 
 ## Fossar de les Moreres
 
-És al Fossar de les Moreres on **s'enterren aquelles persones que van lluitar per la llibertat i les constitucions catalanes**.
+It is in the **Fossar de les Moreres** where **those who fought for the freedom and the Catalan constituions are buried.** 
 
-El color vermell del monument representa _la sang vessada per tal de defensar Catalunya_.
+The red color of the monument representns _the blood spilled for defending Catalonia_. 
 
-> << AQUÍ NO SHI ENTERRA CAP TRAIDOR; FINS PERDENT NOSTRES BANDERES SERÀ L'URNA DE L'HONOR >>
+> << HERE NO TRAITORS ARE BURIED; EVEN LOSING OUR FLAGS IT WILL BE THE URN OF HONOR >>
