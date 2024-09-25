@@ -9,7 +9,7 @@ interface Props {
 const { img, title, desc, url } = Astro.props
 ---
 
-<a href={url}>
+<a href={url} class="mt-0">
 	<div>
 		<img data-src=`${img}` alt=`Article de ${title}` class="rounded-[7px] aspect-square cursor-pointer" />
 	</div>

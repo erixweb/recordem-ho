@@ -2,7 +2,7 @@
 layout: "../../../layouts/article-layout.astro"
 title: "Via Fora"
 introduction: "Utilitzat avui dia per molts dels polítics catalans, què és el que vol dir el crit de via fora?"
-thumbnail: "https://erixweb.github.io/images/patria/viafora-thumb.avif"
+thumbnail: "https://erixweb.github.io/images/patria/via-fora.avif"
 langs: ["ca"]
 language: "ca"
 ---
