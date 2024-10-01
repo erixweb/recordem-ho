@@ -12,7 +12,7 @@ const randomPost = posts[Math.floor(Math.random() * posts.length)]
 	<Header />
 	<main class="p-[20px] max-w-[1000px]">
 		<section id="llegeix">
-			<div class="w-full">
+			<div class="w-full max-sm:hidden">
 				
 				<a href={randomPost.url}  class="flex gap-[20px] items-center justify-center dark:bg-zinc-800 bg-stone-100 shadow-lg dark:shadow-zinc-600 rounded-[15px] h-[300px]">
 					<div class="h-full mt-0 flex w-full">
@@ -53,4 +53,7 @@ const randomPost = posts[Math.floor(Math.random() * posts.length)]
 			</div>
 		</section>
 	</main>
+	<footer class="dark:bg-zinc-800 py-[32px] text-center">
+		Fet per Erik Moreno
+	</footer>
 </Layout>
